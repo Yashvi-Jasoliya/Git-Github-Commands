@@ -3,7 +3,7 @@
 
 GIT != GITHUB
 
-
+1. Check if Git is Installed
 git --version
 
 
