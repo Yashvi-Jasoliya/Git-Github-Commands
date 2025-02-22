@@ -4,6 +4,7 @@
 GIT != GITHUB
 
 1. Check if Git is Installed
+```bash 
 git --version
 
 
